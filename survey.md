@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: pasta
+Favorite musician/band: synaptic
+Favorite movie: the shawshank redemption
+Requested grade in the course: 98
